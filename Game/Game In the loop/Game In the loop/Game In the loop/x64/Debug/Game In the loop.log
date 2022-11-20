@@ -1,5 +1,0 @@
-﻿  Game In the loop.cpp
-D:\Game In the loop\Game In the loop\Game In the loop\Game In the loop.cpp(427): warning C4715: 'Question1': not all control paths return a value
-D:\Game In the loop\Game In the loop\Game In the loop\Game In the loop.cpp(441): warning C4715: 'Question2': not all control paths return a value
-D:\Game In the loop\Game In the loop\Game In the loop\Game In the loop.cpp(455): warning C4715: 'Question3': not all control paths return a value
-  Game In the loop.vcxproj -> D:\Game In the loop\Game In the loop\x64\Debug\Game In the loop.exe
