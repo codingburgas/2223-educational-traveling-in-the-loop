@@ -8,7 +8,7 @@
 ## ![image](https://user-images.githubusercontent.com/85336805/156881710-58bfc307-914b-4620-8ada-5b0decbdac77.png) ![image](https://user-images.githubusercontent.com/85336805/156881728-6df99c24-8398-4f77-9300-640336fbf852.png) Team members:
 * **Anton Goreshtilov** - *Scrum trainer* 
 * **Nikolay Zabirov** - *QnA Developer* 
-* **Joan Panov** - *Backend Developer* 
+* **Yoan Panov** - *Backend Developer* 
 * **Georgi Dimov** - *Backend Developer* 
 
 
